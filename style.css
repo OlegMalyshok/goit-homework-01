@@ -1,0 +1,44 @@
+.container {
+  padding: 0px 32px;
+  margin: 0 auto;
+  width: 1200px;
+}
+
+.header {
+  padding: 24px 0 32px 0;
+}
+.header-logo {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.11;
+  letter-spacing: -0.03em;
+  color: #111111;
+
+  margin-right: 188px;
+}
+.header-logo-simply {
+  font-style: italic;
+}
+.header-sections {
+  margin-right: 137px;
+}
+.header-sections-list {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+}
+
+.header-sections-item {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: -0.02em;
+  color: #111111;
+}
+.header-social {
+}
+.header-social-icon {
+}
